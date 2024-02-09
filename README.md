@@ -1,4 +1,4 @@
-<img width="100%" height="50px" src="https://static.vecteezy.com/system/resources/previews/002/071/097/non_2x/abstract-blue-and-pink-neon-color-light-effect-horizontal-background-vector.jpg" alt="">
+
 
 <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>

@@ -1,4 +1,9 @@
-
+<div>
+  <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
+  <li>Hello</li>
+  <li>Hello</li>
+  <li>Hello</li>
+</div>
 <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
 

@@ -1,5 +1,5 @@
 <div display="flex">
-  <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
+  <h1 width="50px" align="center" background-color="white">Hi 👋, I'm David</h1>
   <li>Hello</li>
   <li>Hello</li>
   <li>Hello</li>

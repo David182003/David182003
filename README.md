@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anirudh Rai</h1>
+<h1 align="center">Hi 👋, I'm David</h1>
 
 
 <p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
@@ -8,6 +8,10 @@
     <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
     <li>📫 How to reach me <strong>josuerojasvega@gmail.com</strong></li>
   </ul>
+
+
+
+
 
 Property                 | Data  
 -------------------------|------

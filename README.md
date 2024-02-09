@@ -1,4 +1,4 @@
-<h1 align="center" background-color:"white">Hi 👋, I'm David</h1>
+<h1 align="center" background-color="white">Hi 👋, I'm David</h1>
 
 
 <p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>

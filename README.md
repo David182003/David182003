@@ -1,5 +1,8 @@
 
 <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
+<p align="center">
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

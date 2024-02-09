@@ -1,4 +1,4 @@
-
+<hr border="2px">
 <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
 <p align="center">
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>

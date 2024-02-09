@@ -1,8 +1,5 @@
 
 <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
-
-
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul>
     <li>🔭 I’m currently working on <strong>CloudPay</strong></li>

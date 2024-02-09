@@ -1,4 +1,3 @@
-<img width="100%" height="50px" src="[https://xd.adobe.com/embed/1ffd1bdb-6b2e-44f8-90dd-591a4ad2bc11-4aae/](https://xd.adobe.com/view/1ffd1bdb-6b2e-44f8-90dd-591a4ad2bc11-4aae/)" alt="">
 
 <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>

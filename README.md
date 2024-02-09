@@ -2,23 +2,7 @@
 <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chakravarthi-v/">
-   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
-    </a><span>&nbsp;</span>
-  <a href="https://twitter.com/ChakriVV">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/___chakri_/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="mailto:chakravarthiviswanath@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="https://github.com/chakravarthi-v">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-</p>
+
 
 <p align ="center">
   <a  href="https://ifeanyi-nneji.netlify.app" target="_blank">

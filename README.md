@@ -1,4 +1,4 @@
-<div>
+<div display="flex">
   <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
   <li>Hello</li>
   <li>Hello</li>

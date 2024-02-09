@@ -1,4 +1,5 @@
-<img width="100%" height="50px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F002%2F071%2F097%2Fnon_2x%2Fabstract-blue-and-pink-neon-color-light-effect-horizontal-background-vector.jpg&tbnid=S5CWICTy91sPGM&vet=12ahUKEwiwn-q7yp2EAxXfgWEGHa1-DVAQMygGegUIARCAAQ..i&imgrefurl=https%3A%2F%2Fes.vecteezy.com%2Farte-vectorial%2F2071097-abstracto-azul-y-rosa-neon-color-efecto-de-luz-fondo-horizontal&docid=Y4s8aoc5bdq0AM&w=1920&h=896&q=imagen%20de%20fondo%20horizontal&ved=2ahUKEwiwn-q7yp2EAxXfgWEGHa1-DVAQMygGegUIARCAAQ" alt="">
+<img width="100%" height="50px" src="https://static.vecteezy.com/system/resources/previews/002/071/097/non_2x/abstract-blue-and-pink-neon-color-light-effect-horizontal-background-vector.jpg" alt="">
+
 <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul>

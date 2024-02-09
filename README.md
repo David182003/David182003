@@ -2,7 +2,7 @@
 <h1 align="center" background-color="white">Hi 👋, I'm David</h1>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align ="center">
   <a  href="https://ifeanyi-nneji.netlify.app" target="_blank">

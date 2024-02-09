@@ -22,7 +22,7 @@
     </a>
   </p>
   
-### 🛠 &nbsp;Tech Stack
+
 
 
 
